@@ -2,6 +2,7 @@
 
 Here are some resources about machine learning I collected during learning.
 ----------------------------------------------
+----------------------------------------------
 
 ## overall
 - [UC Berkeley CS188 Intro to AI -- Course Materials](http://ai.berkeley.edu/lecture_videos.html)
