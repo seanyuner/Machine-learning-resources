@@ -18,5 +18,6 @@ Here are some resources about machine learning I collected during learning.
 - [MIT deep learning book](http://www.deeplearningbook.org/)
 - [The neural network zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 - [Machine Learning Notebook](https://mlnotebook.github.io/)
-- [Schedule and Syllabus by National Taiwan Univ](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
-- [Schedule and Syllabus CS 20SI: Tensorflow for Deep Learning Research by Stanford](https://web.stanford.edu/class/cs20si/syllabus.html)
+### Schedule and Syllabus
+- [National Taiwan Univ](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
+- [Stanford CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
