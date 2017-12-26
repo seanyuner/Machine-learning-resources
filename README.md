@@ -8,7 +8,7 @@ Here are some resources about machine learning I collected during learning.
 - [Tutorial Slides by Andrew Moore](https://www.autonlab.org/tutorials)([detailed](https://www.autonlab.org/tutorials/index.html))
 
 ## supervised learning
-- 
+- [xgboost](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 - 
 
 ## unsupervised learning
