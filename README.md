@@ -9,7 +9,7 @@ Here are some resources about machine learning I collected during learning.
 
 ## supervised learning
 - [xgboost](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
-- 
+- [Visualizing **Gradient Boosting**](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
 
 ## unsupervised learning
 - [Visualizing **K-Means Clustering**](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
