@@ -20,6 +20,7 @@ Here are some resources about machine learning I collected during learning.
 
 ## deep learning
 - [MIT deep learning book](http://www.deeplearningbook.org/)
+- [class central](https://www.class-central.com/report/deep-learning-online-courses/)
 - [The neural network zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 - [Machine Learning Notebook(DL)](https://mlnotebook.github.io/)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
