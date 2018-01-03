@@ -24,6 +24,7 @@ Here are some resources about machine learning I collected during learning.
 - [The neural network zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 - [Machine Learning Notebook(DL)](https://mlnotebook.github.io/)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
+- [MIT deeptraffic](https://selfdrivingcars.mit.edu/deeptraffic/)
 #### Schedule and Syllabus
 - [National Taiwan Univ](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
 - [Stanford CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
