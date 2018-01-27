@@ -3,18 +3,27 @@
 
 Here are some resources about machine learning I collected during learning.
 
+## fundamental
+- [google python styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide/tree/master/google-python-styleguide)
+
 ## overall
 - [UC Berkeley CS188 Intro to AI -- Course Materials](http://ai.berkeley.edu/lecture_videos.html)
 - [Tutorial Slides by Andrew Moore](https://www.autonlab.org/tutorials)([detailed](https://www.autonlab.org/tutorials/index.html))
+- [sklearn ML algorithm cheat-sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+- [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/) by Jason Brownlee
 
 
 ## supervised learning
-- [xgboost](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+- **feature selection** [1](https://machinelearningmastery.com/an-introduction-to-feature-selection/) [2](https://machinelearningmastery.com/feature-selection-machine-learning-python/) [3](https://machinelearningmastery.com/feature-selection-in-python-with-scikit-learn/) by Jason Brownlee
+- [**Random Search** for Hyper-Parameter Optimization](http://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf)
+- [**xgboost**](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 - [Visualizing **Gradient Boosting**](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
 
 
 ## unsupervised learning
 - [Visualizing **K-Means Clustering**](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+- [Clustering Silhouette Coefficient](http://scikit-learn.org/stable/modules/clustering.html#silhouette-coefficient)
+- [PCA](http://wiki.mbalib.com/wiki/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90%E6%B3%95)
 - [Visualizing **PCA**](http://setosa.io/ev/principal-component-analysis/)
 - [Dissecting **Reinforcement**](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
 - [UCL Course on **RL**](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
@@ -34,6 +43,12 @@ Here are some resources about machine learning I collected during learning.
 #### Schedule and Syllabus
 - [National Taiwan Univ](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
 - [Stanford CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
+- [CS231n: Convolutional Neural Networks for Visual Recognition Spring 2017](http://cs231n.stanford.edu/)
 
 #### play
 - [MIT deeptraffic](https://selfdrivingcars.mit.edu/deeptraffic/)
+
+#### others
+- [An Intuitive Explanation of **C**onvolutional **N**eural **N**etworks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+- [**Dropout**: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html)
+- 
