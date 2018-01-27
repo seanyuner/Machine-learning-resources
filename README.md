@@ -41,14 +41,14 @@ Here are some resources about machine learning I collected during learning.
 - [An Intuitive Explanation of **C**onvolutional **N**eural **N**etworks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 - [**Dropout**: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html)
 
-#### 5.1 book
+### 5.1 book
 - [MIT deep learning book](http://www.deeplearningbook.org/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen 
 
-#### 5.2 Schedule and Syllabus
+### 5.2 Schedule and Syllabus
 - [National Taiwan Univ](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
 - [Stanford CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
 - [CS231n: Convolutional Neural Networks for Visual Recognition Spring 2017](http://cs231n.stanford.edu/)
 
-#### 5.3 play
+### 5.3 play
 - [MIT deeptraffic](https://selfdrivingcars.mit.edu/deeptraffic/)
