@@ -5,25 +5,25 @@ Here are some resources about machine learning I collected during learning.
 
 ![](ML.png)
 
-# 1.fundamental
+# 1. fundamental
 - [google python styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide/tree/master/google-python-styleguide)
 
 
-# 2.overall
+# 2. overall
 - [UC Berkeley CS188 Intro to AI -- Course Materials](http://ai.berkeley.edu/lecture_videos.html)
 - [Tutorial Slides by Andrew Moore](https://www.autonlab.org/tutorials)([detailed](https://www.autonlab.org/tutorials/index.html))
 - [sklearn ML algorithm cheat-sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 - [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/) by Jason Brownlee
 
 
-# 3.supervised learning
+# 3. supervised learning
 - **feature selection** [1](https://machinelearningmastery.com/an-introduction-to-feature-selection/) [2](https://machinelearningmastery.com/feature-selection-machine-learning-python/) [3](https://machinelearningmastery.com/feature-selection-in-python-with-scikit-learn/) by Jason Brownlee
 - [**Random Search** for Hyper-Parameter Optimization](http://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf)
 - [**xgboost**](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 - [Visualizing **Gradient Boosting**](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
 
 
-# 4.unsupervised learning
+# 4. unsupervised learning
 - [Visualizing **K-Means Clustering**](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
 - [Clustering Silhouette Coefficient](http://scikit-learn.org/stable/modules/clustering.html#silhouette-coefficient)
 - [PCA](http://wiki.mbalib.com/wiki/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90%E6%B3%95)
@@ -33,25 +33,22 @@ Here are some resources about machine learning I collected during learning.
 - [**RL**: An Introduction](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
 
 
-# 5.deep learning
+# 5. deep learning
 - [DL of class central](https://www.class-central.com/report/deep-learning-online-courses/)
 - [The neural network zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 - [Machine Learning Notebook(DL)](https://mlnotebook.github.io/)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
+- [An Intuitive Explanation of **C**onvolutional **N**eural **N**etworks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+- [**Dropout**: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html)
 
-#### book
+#### 5.1 book
 - [MIT deep learning book](http://www.deeplearningbook.org/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen 
 
-#### Schedule and Syllabus
+#### 5.2 Schedule and Syllabus
 - [National Taiwan Univ](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
 - [Stanford CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
 - [CS231n: Convolutional Neural Networks for Visual Recognition Spring 2017](http://cs231n.stanford.edu/)
 
-#### play
+#### 5.3 play
 - [MIT deeptraffic](https://selfdrivingcars.mit.edu/deeptraffic/)
-
-#### others
-- [An Intuitive Explanation of **C**onvolutional **N**eural **N**etworks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
-- [**Dropout**: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html)
-- 
