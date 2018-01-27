@@ -3,6 +3,8 @@
 
 Here are some resources about machine learning I collected during learning.
 
+![](ML.png)
+
 ## fundamental
 - [google python styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide/tree/master/google-python-styleguide)
 
