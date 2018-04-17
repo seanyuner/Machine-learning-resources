@@ -1,7 +1,7 @@
 # Machine-learning-resources
 ---
 
-Here are some resources about machine learning I collected during learning.
+**Here are some resources about machine learning I collected during learning.**
 
 ![](ML.png)
 
@@ -14,6 +14,8 @@ Here are some resources about machine learning I collected during learning.
 - [Tutorial Slides by Andrew Moore](https://www.autonlab.org/tutorials)([detailed](https://www.autonlab.org/tutorials/index.html))
 - [sklearn ML algorithm cheat-sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 - [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/) by Jason Brownlee
+- [Stanford CS229: Machine Learning](http://cs229.stanford.edu/)
+- [Understanding the bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 
 
 # 3. supervised learning
@@ -49,8 +51,8 @@ Here are some resources about machine learning I collected during learning.
 
 ### 5.2 Schedule and Syllabus
 - [National Taiwan Univ](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
-- [Stanford CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
-- [CS231n: Convolutional Neural Networks for Visual Recognition Spring 2017](http://cs231n.stanford.edu/)
+- [Stanford CS20: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 ### 5.3 play
 - [MIT deeptraffic](https://selfdrivingcars.mit.edu/deeptraffic/)
