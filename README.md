@@ -23,6 +23,7 @@
 - [**Random Search** for Hyper-Parameter Optimization](http://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf)
 - [**xgboost**](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 - [Visualizing **Gradient Boosting**](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
+- [数学之美番外篇：平凡而又神奇的贝叶斯方法](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/) by 刘未鹏
 
 
 # 4. unsupervised learning
