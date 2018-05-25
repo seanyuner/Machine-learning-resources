@@ -25,6 +25,7 @@
 - [Visualizing **Gradient Boosting**](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
 - [数学之美番外篇：平凡而又神奇的贝叶斯方法](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/) by 刘未鹏
 - [SVM原理及解释](https://www.cnblogs.com/xiaomacgrady/p/5136379.html)/[Lagrange Multiplier and KKT](http://www.cnblogs.com/zhangchaoyang/articles/2726873.html#mjx-eqn-secondhalf)
+- [**t-SNE** (t-Distributed Stochastic Neighbor Embedding)](http://lvdmaaten.github.io/tsne/)
 
 
 # 4. unsupervised learning
