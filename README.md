@@ -39,6 +39,7 @@
 
 
 # 5. deep learning
+- [tensorflow playground](http://playground.tensorflow.org)
 - [DL of class central](https://www.class-central.com/report/deep-learning-online-courses/)
 - [The neural network zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 - [Machine Learning Notebook(DL)](https://mlnotebook.github.io/)
