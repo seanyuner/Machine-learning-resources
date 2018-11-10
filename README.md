@@ -37,7 +37,8 @@
 # 5. reinforcement leanring
 - [Dissecting Reinforcement](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
 - [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-- [RL: An Introduction](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
+- [RL: An Introduction](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)(pdf)
+- [Spinning Up in Deep RL](http://spinningup.openai.com/en/latest/index.html) by OpenAI
 
 
 # 6. deep learning
