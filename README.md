@@ -49,6 +49,7 @@
 - [tensorfly](http://www.tensorfly.cn/home/)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
 - [An Intuitive Explanation of **C**onvolutional **N**eural **N**etworks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+- [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf)
 - [**Dropout**: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html)
 - [**optimization**](http://ruder.io/optimizing-gradient-descent/index.html)
 
