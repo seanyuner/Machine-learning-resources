@@ -46,6 +46,7 @@
 - [DL of class central](https://www.class-central.com/report/deep-learning-online-courses/)
 - [The neural network zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 - [Machine Learning Notebook(DL)](https://mlnotebook.github.io/)
+- [diveintodeeplearning](https://github.com/diveintodeeplearning/d2l-zh)
 - [tensorfly](http://www.tensorfly.cn/home/)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
 - [An Intuitive Explanation of **C**onvolutional **N**eural **N**etworks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
