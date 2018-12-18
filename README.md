@@ -66,3 +66,6 @@
 
 ### 6.3 play
 - [MIT deeptraffic](https://selfdrivingcars.mit.edu/deeptraffic/)
+
+### 6.4 others
+- [A Full Hardware Guide to Deep Learning](http://timdettmers.com/2018/12/16/deep-learning-hardware-guide/) by Tim Dettmers
