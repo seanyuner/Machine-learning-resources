@@ -69,3 +69,4 @@
 
 ### 6.4 others
 - [A Full Hardware Guide to Deep Learning](http://timdettmers.com/2018/12/16/deep-learning-hardware-guide/) by Tim Dettmers
+- [CV datasets](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
